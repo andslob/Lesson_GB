@@ -1,0 +1,15 @@
+C:\Users\slobo\GeekBrains\Control_Version\Lesson\Examples\Example_012\obj\Debug\net6.0\Example_012.csproj.AssemblyReference.cache
+C:\Users\slobo\GeekBrains\Control_Version\Lesson\Examples\Example_012\obj\Debug\net6.0\Example_012.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slobo\GeekBrains\Control_Version\Lesson\Examples\Example_012\obj\Debug\net6.0\Example_012.AssemblyInfoInputs.cache
+C:\Users\slobo\GeekBrains\Control_Version\Lesson\Examples\Example_012\obj\Debug\net6.0\Example_012.AssemblyInfo.cs
+C:\Users\slobo\GeekBrains\Control_Version\Lesson\Examples\Example_012\obj\Debug\net6.0\Example_012.csproj.CoreCompileInputs.cache
+C:\Users\slobo\GeekBrains\Control_Version\Lesson\Examples\Example_012\bin\Debug\net6.0\Example_012.exe
+C:\Users\slobo\GeekBrains\Control_Version\Lesson\Examples\Example_012\bin\Debug\net6.0\Example_012.deps.json
+C:\Users\slobo\GeekBrains\Control_Version\Lesson\Examples\Example_012\bin\Debug\net6.0\Example_012.runtimeconfig.json
+C:\Users\slobo\GeekBrains\Control_Version\Lesson\Examples\Example_012\bin\Debug\net6.0\Example_012.dll
+C:\Users\slobo\GeekBrains\Control_Version\Lesson\Examples\Example_012\bin\Debug\net6.0\Example_012.pdb
+C:\Users\slobo\GeekBrains\Control_Version\Lesson\Examples\Example_012\obj\Debug\net6.0\Example_012.dll
+C:\Users\slobo\GeekBrains\Control_Version\Lesson\Examples\Example_012\obj\Debug\net6.0\refint\Example_012.dll
+C:\Users\slobo\GeekBrains\Control_Version\Lesson\Examples\Example_012\obj\Debug\net6.0\Example_012.pdb
+C:\Users\slobo\GeekBrains\Control_Version\Lesson\Examples\Example_012\obj\Debug\net6.0\Example_012.genruntimeconfig.cache
+C:\Users\slobo\GeekBrains\Control_Version\Lesson\Examples\Example_012\obj\Debug\net6.0\ref\Example_012.dll
